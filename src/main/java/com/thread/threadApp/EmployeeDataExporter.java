@@ -1,4 +1,4 @@
-package com.thread.threadApp.Config;
+package com.thread.threadApp;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -10,6 +10,8 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import com.thread.threadApp.Config.DatabaseConnection;
 
 
 public class EmployeeDataExporter {

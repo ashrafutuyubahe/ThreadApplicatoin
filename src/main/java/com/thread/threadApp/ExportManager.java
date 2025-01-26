@@ -1,4 +1,4 @@
-package com.thread.threadApp.Config;
+package com.thread.threadApp;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
